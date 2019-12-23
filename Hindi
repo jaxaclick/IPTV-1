@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sony Ten 1
+http://103.121.36.238:8081/live/ten1hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sony Ten 3
+http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sony ESPN
+http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sony SIX
+http://103.121.36.238:8081/live/sonysix/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports 1
+http://103.121.36.238:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports 2
+http://103.121.36.238:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports First
+http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Star Sports Select 1
+http://103.121.36.238:8081/live/select1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Dubai Sports
+http://27.147.156.14:1935/Dubai-Sports/Dubai-Sports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sky Net Sports 2
+http://103.118.76.229:1935/tvprogram/CBeebies/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sky Sports Cricket
+http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sky Sports Football
+http://103.121.36.238:8081/live/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", World Football
+http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sports Focus
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sports Premium
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sports Life
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Sports Arena
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Ten/Super Sports
+http://163.172.85.133:8080/TenS/sports/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", ESPN
+http://npse.brots.world/espn2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Dsport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
