@@ -1,0 +1,152 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", ASIAN TV
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", ATN BANGLA
+http://103.121.36.238:8081/live/atnbangla/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", ATN NEWS
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", ATN Music
+http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", BANGLA TV
+http://27.147.156.14:1935/Bangla-TV/Bangla-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", BANGLA VISION
+http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", BIJOY TV
+http://27.147.156.14:1935/Bijoy-TV/Bijoy-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", BOISHAKHI TV
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", BTV
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", BTV World
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", CHANNEL 9
+http://103.118.76.229:1935/tvprogram/CHANNEL-9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", CHANNEL 24
+http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", CHANNEL I
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Channel S (UK)
+https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", DBC News
+http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Deepto TV
+http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w992309116.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Desh TV
+http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deshi TV
+http://72.139.72.18:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", DURONTO TV
+http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Ekattor TV
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Ekushey TV
+http://103.121.36.238:8081/live/ekushey/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Gazi TV (Opt-1)
+http://103.118.76.229:1935/tvprogram/GAZI-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Gazi TV (Opt-2)
+https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Independent TV
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Jamuna TV
+http://27.147.156.14:1935/Jamuna-TV/Jamuna-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", MOHONA TV
+http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", MY TV
+http://27.147.156.14:1935/MY-TV/MY-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", NTV
+http://103.121.36.238:8081/live/ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", NTV (UK)
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", NTV (US)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Nagorik TV
+http://103.121.36.238:8081/live/nagorik/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", RTV
+http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", SA TV
+https://triangle.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bangladesh", Somoy News
+http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", Gaan Bangla
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", RTV Music
+http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", Sangeet Bangla
+http://27.147.156.14:1935/Sangeet-Bangla/Sangeet-Bangla.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Informative", Discovery HD Bangla
+http://103.118.76.229:1935/tvprogram/DISCOVERY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Colors Bangla
+https://triangle.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Aath
+http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Star Jalsha (Opt-1)
+http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Star Jalsha (Opt-2)
+http://103.111.120.46/hls/Star_Jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Jalsha Movies (Opt-1)
+http://103.118.76.229:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Jalsha Movies (Opt-2)
+http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Zee Bangla (Opt-1)
+http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Zee Bangla (Opt-2)
+https://triangle.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Zee Bangla (Opt-3)
+http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Zee Bangla Cinema
+http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
+
+
+
+
+
